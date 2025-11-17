@@ -1,0 +1,219 @@
+{
+  "media_geral": 4.52,
+  "dept_stats": {
+    "Marketing": {
+      "mean": 5.0,
+      "count": 78,
+      "gap": 0.48
+    },
+    "Financeiro": {
+      "mean": 4.9,
+      "count": 156,
+      "gap": 0.38
+    },
+    "Gente e Cultura": {
+      "mean": 4.86,
+      "count": 156,
+      "gap": 0.34
+    },
+    "Facilities": {
+      "mean": 4.81,
+      "count": 78,
+      "gap": 0.29
+    },
+    "Cobrança": {
+      "mean": 4.79,
+      "count": 156,
+      "gap": 0.27
+    },
+    "Operações": {
+      "mean": 4.4,
+      "count": 156,
+      "gap": -0.12
+    },
+    "T.I": {
+      "mean": 4.37,
+      "count": 78,
+      "gap": -0.15
+    },
+    "Crédito e Cadastro": {
+      "mean": 4.1,
+      "count": 312,
+      "gap": -0.42
+    },
+    "Controladoria": {
+      "mean": 3.88,
+      "count": 78,
+      "gap": -0.64
+    }
+  },
+  "dim_stats": {
+    "Conexão com líder": 4.72,
+    "Embaixador": 4.64,
+    "Crescimento pessoal": 4.56,
+    "Bem-estar": 4.55,
+    "Satisfação": 4.55,
+    "Cultura": 4.54,
+    "Conexão com colegas": 4.51,
+    "Empoderamento": 4.44,
+    "Reconhecimento & Feedback": 4.21
+  },
+  "heatmap": {
+    "Cobrança": {
+      "Bem-estar": 4.9,
+      "Conexão com colegas": 5.0,
+      "Conexão com líder": 4.95,
+      "Crescimento pessoal": 4.9,
+      "Cultura": 4.5,
+      "Embaixador": 5.0,
+      "Empoderamento": 4.61,
+      "Reconhecimento & Feedback": 4.44,
+      "Satisfação": 4.75
+    },
+    "Controladoria": {
+      "Bem-estar": 3.8,
+      "Conexão com colegas": 4.56,
+      "Conexão com líder": 3.8,
+      "Crescimento pessoal": 3.93,
+      "Cultura": 4.0,
+      "Embaixador": 3.86,
+      "Empoderamento": 3.93,
+      "Reconhecimento & Feedback": 2.88,
+      "Satisfação": 4.25
+    },
+    "Crédito e Cadastro": {
+      "Bem-estar": 4.2,
+      "Conexão com colegas": 3.72,
+      "Conexão com líder": 4.5,
+      "Crescimento pessoal": 4.13,
+      "Cultura": 4.12,
+      "Embaixador": 4.04,
+      "Empoderamento": 4.07,
+      "Reconhecimento & Feedback": 4.0,
+      "Satisfação": 4.0
+    },
+    "Facilities": {
+      "Bem-estar": 4.4,
+      "Conexão com colegas": 5.0,
+      "Conexão com líder": 5.0,
+      "Crescimento pessoal": 4.8,
+      "Cultura": 5.0,
+      "Embaixador": 4.71,
+      "Empoderamento": 4.79,
+      "Reconhecimento & Feedback": 4.5,
+      "Satisfação": 5.0
+    },
+    "Financeiro": {
+      "Bem-estar": 5.0,
+      "Conexão com colegas": 4.94,
+      "Conexão com líder": 5.0,
+      "Crescimento pessoal": 4.97,
+      "Cultura": 5.0,
+      "Embaixador": 5.0,
+      "Empoderamento": 4.61,
+      "Reconhecimento & Feedback": 4.94,
+      "Satisfação": 4.75
+    },
+    "Gente e Cultura": {
+      "Bem-estar": 5.0,
+      "Conexão com colegas": 4.78,
+      "Conexão com líder": 5.0,
+      "Crescimento pessoal": 4.87,
+      "Cultura": 5.0,
+      "Embaixador": 4.86,
+      "Empoderamento": 4.79,
+      "Reconhecimento & Feedback": 4.62,
+      "Satisfação": 5.0
+    },
+    "Marketing": {
+      "Bem-estar": 5.0,
+      "Conexão com colegas": 5.0,
+      "Conexão com líder": 5.0,
+      "Crescimento pessoal": 5.0,
+      "Cultura": 5.0,
+      "Embaixador": 5.0,
+      "Empoderamento": 5.0,
+      "Reconhecimento & Feedback": 5.0,
+      "Satisfação": 5.0
+    },
+    "Operações": {
+      "Bem-estar": 4.5,
+      "Conexão com colegas": 4.44,
+      "Conexão com líder": 4.6,
+      "Crescimento pessoal": 4.33,
+      "Cultura": 4.42,
+      "Embaixador": 4.93,
+      "Empoderamento": 4.57,
+      "Reconhecimento & Feedback": 3.38,
+      "Satisfação": 4.38
+    },
+    "T.I": {
+      "Bem-estar": 4.0,
+      "Conexão com colegas": 4.33,
+      "Conexão com líder": 4.6,
+      "Crescimento pessoal": 4.53,
+      "Cultura": 4.33,
+      "Embaixador": 5.0,
+      "Empoderamento": 3.86,
+      "Reconhecimento & Feedback": 4.25,
+      "Satisfação": 4.75
+    }
+  },
+  "distribuicao": {
+    "1": 15,
+    "2": 43,
+    "3": 115,
+    "4": 179,
+    "5": 896
+  },
+  "drill_down": {
+    "Controladoria": {
+      "Reconhecimento & Feedback": 2.88,
+      "Bem-estar": 3.8,
+      "Conexão com líder": 3.8,
+      "Embaixador": 3.86,
+      "Empoderamento": 3.93,
+      "Crescimento pessoal": 3.93,
+      "Cultura": 4.0,
+      "Satisfação": 4.25,
+      "Conexão com colegas": 4.56
+    },
+    "Crédito e Cadastro": {
+      "Conexão com colegas": 3.72,
+      "Reconhecimento & Feedback": 4.0,
+      "Satisfação": 4.0,
+      "Embaixador": 4.04,
+      "Empoderamento": 4.07,
+      "Cultura": 4.12,
+      "Crescimento pessoal": 4.13,
+      "Bem-estar": 4.2,
+      "Conexão com líder": 4.5
+    },
+    "Operações": {
+      "Reconhecimento & Feedback": 3.38,
+      "Crescimento pessoal": 4.33,
+      "Satisfação": 4.38,
+      "Cultura": 4.42,
+      "Conexão com colegas": 4.44,
+      "Bem-estar": 4.5,
+      "Empoderamento": 4.57,
+      "Conexão com líder": 4.6,
+      "Embaixador": 4.93
+    },
+    "T.I": {
+      "Empoderamento": 3.86,
+      "Bem-estar": 4.0,
+      "Reconhecimento & Feedback": 4.25,
+      "Conexão com colegas": 4.33,
+      "Cultura": 4.33,
+      "Crescimento pessoal": 4.53,
+      "Conexão com líder": 4.6,
+      "Satisfação": 4.75,
+      "Embaixador": 5.0
+    }
+  },
+  "mesmo_lider": {
+    "Controladoria": 3.88,
+    "Operações": 4.4
+  }
+}
